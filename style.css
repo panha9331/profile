@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+    align-content: center;
+    
+}
+h1{
+    color: red;
+}
+h2{
+    color: purple;
+}
+img{
+    content: counter(Nika);
+    counter-reset: Nika;
+}
+p{
+    font-style: inherit;
+    color: darkblue;
+}
+div{
+    font-size: 300%;
+    color: pink;
+    font-variant-emoji: calc(ca);
+}html{
+    color-interpolation-filters: sRGB;
+}
+img{
+    width: 300px;
+    img-align: center;
+}
+img main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
